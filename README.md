@@ -1,8 +1,8 @@
 ## Ex-No-05--Implement Simple Hill Climbing Algorithm
 
-### Name: KAVYA K
+### Name: Mohanraj S
 
-### Register Number: 212222230065
+### Register Number: 212221230065
 
 ### Aim:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration
